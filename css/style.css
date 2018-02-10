@@ -1,0 +1,21 @@
+/*
+primary: #8e24aa
+p-light :#c158dc
+p-dark: #5c007a
+secondary: #ad1457
+s-light: #e35183
+s-dark: #78002e
+*/
+
+body {
+    background-color: #8e24aa;  
+    
+}
+
+/*
+font-family: 'Roboto', sans-serif;
+*/
+h1,
+h2 {
+    font-family: 'Roboto', sans-serif
+}
